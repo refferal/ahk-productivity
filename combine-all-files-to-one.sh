@@ -1,0 +1,1 @@
+for f in *.ahk; do (cat "${f}"; echo) >> merged-file.ahk; done
